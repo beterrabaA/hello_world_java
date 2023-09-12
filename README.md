@@ -1,2 +1,2 @@
 # hello_world_java
-First project using java!
+First public project using java!
